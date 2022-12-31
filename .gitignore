@@ -1,0 +1,5 @@
+.env
+.spyproject/
+twilioenv/
+.git
+recoverycode.txt
